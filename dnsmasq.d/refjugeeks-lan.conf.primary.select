@@ -9,5 +9,5 @@ dhcp-option=3,192.168.0.1
 dhcp-option=6,192.168.0.3,192.168.0.4
 
 # Proxy auto-config PAC file
-dhcp-option=252,http://192.168.0.3:81/infra/refjugeeks.pac
+dhcp-option=252,http://192.168.0.3/refjugeeks.pac
 
